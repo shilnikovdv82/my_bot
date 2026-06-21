@@ -5,8 +5,8 @@ from aiogram.filters import Command
 from openai import OpenAI
 
 # === Настройки ===
-TELEGRAM_TOKEN = "8809793372:AAEwS_DCWc5iiPclFc5fgAPwN43WtTj8XlI"
-OPENROUTER_KEY = "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"
+TELEGRAM_TOKEN = ""
+OPENROUTER_KEY = "d"
 MODEL = "meta-llama/llama-3.3-70b-instruct:free"
 
 # === Инициализация ===
